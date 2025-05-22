@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @angshuprabha
+- 🏢 I am an Architect by profession 👷🏻‍♀️
 - 👀 I’m interested in automation in Architecture
 - 🌱 I’m currently learning python ✌🏽
 
